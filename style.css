@@ -1,0 +1,47 @@
+body{
+    box-sizing: border-box;
+ 
+}
+.container1{
+    display: flex;
+    justify-content: center;
+     
+
+   
+}
+
+.section1{
+    background-color: gainsboro;
+    min-height: 30rem;
+    padding-top: 5rem;
+}
+
+.headshot{
+    width: 20rem;
+    height: 20rem;
+    margin-right: 6rem;
+    
+}
+
+.headshot img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+
+  .intro{
+      padding: 2rem 0rem;
+       width: 34rem;
+     
+  }
+
+
+
+
+
+h1, h2, h3{
+    font-size: 2rem;
+    
+    
+}
+
