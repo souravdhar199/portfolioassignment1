@@ -1,3 +1,7 @@
+*{
+    font-family: sans-serif;
+}
+
 body{
     box-sizing: border-box;
  
@@ -126,6 +130,26 @@ h1, h2, h3{
      font-size: 1.2rem;
  }
 
- 
+ .section4 h1{
+    text-align: center;
+ }
+ /* section 4 starts here */
+ table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid rgb(179, 154, 154);
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 16px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: rgb(205, 209, 212);
+  }
+
+
 
 
